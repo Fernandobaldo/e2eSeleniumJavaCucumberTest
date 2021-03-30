@@ -5,7 +5,7 @@ This project uses [Selenium](https://www.selenium.dev/documentation/en/) for e2e
 Some additional dependencies:
 - [Cucumber-jUnit](https://mvnrepository.com/artifact/io.cucumber/cucumber-junit)
 - [Selenium-Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)
-- [Selenium-Java](https://mvnrepository.com/artifact/io.cucumber/cucumber-java)
+- [Cucumber-Java](https://mvnrepository.com/artifact/io.cucumber/cucumber-java)
 
 
 ## Getting Started
