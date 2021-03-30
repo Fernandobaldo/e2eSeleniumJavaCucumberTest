@@ -1,6 +1,6 @@
 # E2E Tests - Selenium WebDriver E2E
 
-This project uses [Selenium](https://www.selenium.dev/documentation/en/) for APIs e2e automate testing.
+This project uses [Selenium](https://www.selenium.dev/documentation/en/) for e2e automated testing.
 
 Some additional dependencies:
 - [Cucumber-jUnit](https://mvnrepository.com/artifact/io.cucumber/cucumber-junit)
